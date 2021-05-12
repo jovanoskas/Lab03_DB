@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\U29uIExpdHRsZSAtIE1hZCBBYm91dCBZb3UgKEZ1bGwgQWxidW0gU3RyZWFtKQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">5118465</Metadata>
+    <Metadata name="Source">Son Little - Mad About You (Full Album Stream).mp3</Metadata>
+    <Metadata name="SourceFile">U29uIExpdHRsZSAtIE1hZCBBYm91dCBZb3UgKEZ1bGwgQWxidW0gU3RyZWFtKQ==.mp3</Metadata>
+    <Metadata name="mp3">Son Little - Mad About You (Full Album Stream)</Metadata>
+    <Metadata name="srcurl">U29uIExpdHRsZSAtIE1hZCBBYm91dCBZb3UgKEZ1bGwgQWxidW0gU3RyZWFtKQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">U29uIExpdHRsZSAtIE1hZCBBYm91dCBZb3UgKEZ1bGwgQWxidW0gU3RyZWFtKQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">U29uIExpdHRsZSAtIE1hZCBBYm91dCBZb3UgKEZ1bGwgQWxidW0gU3RyZWFtKQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Creator">Son Little</Metadata>
+    <Metadata name="dc.Description">Song</Metadata>
+    <Metadata name="dc.Title">Mad About You</Metadata>
+    <Metadata name="Title">Son Little - Mad About You (Full Album Stream)</Metadata>
+    <Metadata name="Identifier">HASH01f3786b7580200fb6669e2c</Metadata>
+    <Metadata name="lastmodified">1620831928</Metadata>
+    <Metadata name="lastmodifieddate">20210512</Metadata>
+    <Metadata name="oailastmodified">1620832102</Metadata>
+    <Metadata name="oailastmodifieddate">20210512</Metadata>
+    <Metadata name="assocfilepath">HASH01f3.dir</Metadata>
+    <Metadata name="gsdlassocfile">U29uIExpdHRsZSAtIE1hZCBBYm91dCBZb3UgKEZ1bGwgQWxidW0gU3RyZWFtKQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>
